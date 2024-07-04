@@ -1,4 +1,4 @@
-<h3 align="center">💻 Skiils</h3>
+<h3 align="center">💻 Skills</h3>
 <h5 align="center">Platforms & Languages</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
