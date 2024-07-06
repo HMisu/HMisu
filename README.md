@@ -5,8 +5,7 @@
   Nice to meet you.<br>I'm a developer job applicant studying backend.
 </p>
 <br>
-
-<h3 align="center">💻 Skills</h3>
+<h4 align="center">💻 Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"/>&nbsp
@@ -21,14 +20,14 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
 </p>
 
-<h5 align="center">✏️ Current study Skills</h3>
+<h4 align="center">✏️ Current study Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-<h3 align="center">🌈 Follow Me</h3>
+<h4 align="center">🌈 Follow Me</h3>
 <p align="center">
    <img src="https://img.shields.io/badge/Portfolio-8f80d9?style=fflat&logo=undertale&logoColor=white"/>&nbsp
   <a href="mailto:misuhan33@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=misuhan33@gmail.com"/></a>
