@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Misu's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<h3 align="center">👋 Hi, there 👋</h5>
 <p align="center">
   Nice to meet you.<br>I'm a developer job applicant studying backend.
 </p>
