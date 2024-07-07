@@ -2,6 +2,7 @@
 <p align="center">
   Nice to meet you.<br>I'm a developer job applicant studying backend.
 </p>
+<hr/>
 <br>
 <h4 align="center">💻 Skills</h3>
 <p align="center">
