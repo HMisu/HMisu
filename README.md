@@ -3,7 +3,6 @@
   Nice to meet you.<br>I'm a developer job applicant studying backend.
 </p>
 <br>
-<br>
 <h4 align="center">💻 Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
