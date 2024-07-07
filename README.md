@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Misu's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=130&section=header&text=Welcome%20to%20Misu's%20GitHub%&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 <p align="center">
   Nice to meet you.<br>I'm a developer job applicant studying backend.
 </p>
+<br>
 <br>
 <h4 align="center">💻 Skills</h3>
 <p align="center">
@@ -35,5 +35,5 @@
 
 <br><br>
 <p align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F4AEEA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23848484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
